@@ -1,2 +1,0 @@
-Options: 
-CMake: 3.7.2@/home/adel/CLion/bin/cmake/bin/cmake
