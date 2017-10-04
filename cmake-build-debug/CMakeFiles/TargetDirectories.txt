@@ -1,0 +1,3 @@
+/home/adel/Projects/c-python-ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adel/Projects/c-python-ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adel/Projects/c-python-ex/cmake-build-debug/CMakeFiles/c_python_ex.dir
